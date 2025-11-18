@@ -1,4 +1,3 @@
-
 A small FastAPI backend that collects product reviews sent via WhatsApp (Twilio webhook) and stores them in a database.
 
 Features
